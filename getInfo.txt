@@ -1,0 +1,4 @@
+setup done
+game human human
+info e1
+move f1 e2
